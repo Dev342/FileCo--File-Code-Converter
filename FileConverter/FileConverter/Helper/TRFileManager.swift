@@ -1,9 +1,3 @@
-//
-//  TRFileManager.swift
-//  CodeConvert
-//
-//  Created by Tushar Khandaker on 11/9/23.
-//
 
 import Foundation
 import UIKit
