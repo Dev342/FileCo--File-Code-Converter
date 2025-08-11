@@ -1,9 +1,3 @@
-//
-//  InfoVC.swift
-//  CodeConvert
-//
-//  Created by Tushar Khandaker on 10/9/23.
-//
 
 import UIKit
 
