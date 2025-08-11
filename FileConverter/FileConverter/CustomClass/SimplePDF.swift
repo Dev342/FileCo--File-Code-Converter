@@ -1,9 +1,3 @@
-//
-//  SimplePDF.swift
-//  FileConverter
-//
-//  Created by Tushar Khandaker on 14/9/23.
-//
 
 import UIKit
 
