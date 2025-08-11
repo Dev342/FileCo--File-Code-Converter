@@ -1,9 +1,3 @@
-//
-//  Reachability.swift
-//  FileConverter
-//
-//  Created by Tushar Khandaker on 16/9/23.
-//
 
 import Foundation
 import SystemConfiguration
