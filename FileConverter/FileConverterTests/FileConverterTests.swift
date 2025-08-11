@@ -1,9 +1,4 @@
-//
-//  FileConverterTests.swift
-//  FileConverterTests
-//
-//  Created by Tushar Khandaker on 13/9/23.
-//
+
 
 import XCTest
 @testable import FileConverter
