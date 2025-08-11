@@ -1,9 +1,3 @@
-//
-//  ViewController.swift
-//  CodeConvert
-//
-//  Created by Tushar Khandaker on 8/9/23.
-//
 
 import UIKit
 import MobileCoreServices
